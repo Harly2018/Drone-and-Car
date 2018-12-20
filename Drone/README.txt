@@ -1,4 +1,1 @@
-test
-Merci
-:q
-:wq
+Thanks for your presence here.
